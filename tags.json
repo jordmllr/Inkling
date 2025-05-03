@@ -1,0 +1,24 @@
+{
+  "tags": [
+    {
+      "name": "character",
+      "description": "every character has an arc"
+    },
+    {
+      "name": "setting",
+      "description": "notes about the context in which the story takes place"
+    },
+    {
+      "name": "plot",
+      "description": "significant events and beats in the story"
+    },
+    {
+      "name": "theme",
+      "description": "general tag for collecting notes about a theme"
+    },
+    {
+      "name": "scene",
+      "description": "scenes are the narrative unit of a story"
+    }
+  ]
+}
