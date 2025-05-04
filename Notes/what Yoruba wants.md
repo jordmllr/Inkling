@@ -1,0 +1,2 @@
+# Yoruba wants to understand the greenhouse tech
+The plantation is a complex biodynamic system. Franklyn is the only one who understands the greenhouse tech and biodynamic design. Yoruba wants to understand how to replicate this sort of system on a larger scale.

@@ -1,0 +1,1 @@
+For scenes that happen before the story, we only need to create the scene graph, or maybe even a scene summary node. For scenes that are included in the narrative, we need to create the scene graph and then use it to write the actual prose using our style guidelines.

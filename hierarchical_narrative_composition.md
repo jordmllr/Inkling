@@ -1,0 +1,2 @@
+# Hierarchical Narrative Composition
+A story can be represented as a hierarchically structured graph. That is, a finished story. The writer's problem is that a story does not occur to them fully formed. It comes in fits and starts, fragments and flashes of inspiration. These come at all levels of the hierarchy: plot points, character traits, imagery, themes, style notes, scenes, moments, dialog, locations, etc... The narrative is composed over time by collecting these fragments and then progressively trying to integrate them into a coherent structure.

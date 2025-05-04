@@ -1,0 +1,1 @@
+Melipona is a genus of bees that live in central and south america. They are the native pollinator of the vanilla orchid. They actually pollinate Tomatoes, Chiles

@@ -1,0 +1,2 @@
+scenes show up on the character timeline. The character timeline extends into the past and potentially into the future. The future might matter if we're going to write it as a story later. 
+The past always matters. Characters bring their pasts with them into a scene. In this way, there is no real distinction between the scenes we see and the scenes that occurred in the backstory. 
